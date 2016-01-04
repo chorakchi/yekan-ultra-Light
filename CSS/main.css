@@ -1,0 +1,61 @@
+@font-face {
+	font-family: 'yekan';
+	src:url('../fonts/yekan.woff');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'yekan-ultra-Light';
+	src:url('../fonts/yekan-ultra-Light.woff');
+	font-weight: normal;
+	font-style: normal;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: Gainsboro ;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.bk1{
+	width: 80%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 40px;
+	border:8px;
+	background-color: MintCream ;
+	border-style: solid;
+	border-radius: 50px;
+	border-color: WhiteSmoke ;
+}
+.bk2{
+	width: 80%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 40px;
+	border:8px;
+	background-color: gray ;
+	border-style: solid;
+	border-radius: 50px;
+	border-color: gray;
+}
+.txt1{
+	font-family: sans-serif;
+	font-size: 60px;
+	color: Gainsboro;
+	text-align: center;
+}
+.sans-r1{
+	font-family: 'yekan';
+	font-size: 25px;
+	color: gray;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.sans-l1{
+	font-family: 'yekan-ultra-Light';
+	font-size: 25px;
+	color: gray;
+}
