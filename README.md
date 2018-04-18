@@ -4,9 +4,12 @@ Optimized fonts for better rendering on the web and ultra-light weight Font weig
 
 
 ## Platforms supported
+
 Platform | Encoding
+--- | ---
 Microsoft | Unicode BMP only
 Macintosh | Roman
+
 ## Font details
 |Created: 2001-04-14|
 |Revision: 1|
