@@ -2,6 +2,12 @@
 
 Optimized fonts for better rendering on the web and ultra-light weight Font weight conversions
 
+##Font family
+Yekan
+
+Font subfamily
+ultra-Light
+
 
 ## Platforms supported
 
@@ -39,10 +45,13 @@ Macintosh | Roman
 |Serif style: Any|
 |Arm style: Any|
 |Letter form: Any|
-|Weight: Light|
+|Weight: ultra-Light|
 |Proportion: Any|
 |Contrast: Any|
 |Stroke variation: Any|
 |Midline: Any|
 |X-height (corpus size): Any |
+
+
+Fonts available at this repository are either GNU/GPL, Freeware, free for Personal use, Donationware, Shareware or Demo. Although we have indicated the license type, please make sure to double check it by reading the information shown in the details area of each font to avoid any confusion. 
 
