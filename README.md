@@ -11,7 +11,9 @@ Microsoft | Unicode BMP only
 Macintosh | Roman
 
 ## Font details
+
 |Created: 2001-04-14|
+| --- |
 |Revision: 1|
 |Glyph count: 286|
 |Units per Em: 2048|
@@ -27,6 +29,7 @@ Macintosh | Roman
 |Stroke weight: Book, text, regular, etc.|
 |Pitch: Not monospaced|
 |Symbol set: Windows 3.1 ANSI|
+
 ## Visual characteristics
 |Family type: Any|
 |Serif style: Any|
