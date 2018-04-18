@@ -13,7 +13,6 @@ Macintosh | Roman
 ## Font details
 
 |Created: 2001-04-14|
-| --- |
 |Revision: 1|
 |Glyph count: 286|
 |Units per Em: 2048|
@@ -31,6 +30,7 @@ Macintosh | Roman
 |Symbol set: Windows 3.1 ANSI|
 
 ## Visual characteristics
+
 |Family type: Any|
 |Serif style: Any|
 |Arm style: Any|
@@ -41,3 +41,4 @@ Macintosh | Roman
 |Stroke variation: Any|
 |Midline: Any|
 |X-height (corpus size): Any |
+
