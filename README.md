@@ -4,10 +4,10 @@ Optimized fonts for better rendering on the web and ultra-light weight Font weig
 
 
 ## Platforms supported
-|Platform Encoding|
-|Microsoft Unicode BMP only|
-|Macintosh Roman|
-# Font details
+Platform | Encoding
+Microsoft | Unicode BMP only
+Macintosh | Roman
+## Font details
 |Created: 2001-04-14|
 |Revision: 1|
 |Glyph count: 286|
@@ -24,7 +24,7 @@ Optimized fonts for better rendering on the web and ultra-light weight Font weig
 |Stroke weight: Book, text, regular, etc.|
 |Pitch: Not monospaced|
 |Symbol set: Windows 3.1 ANSI|
-# Visual characteristics
+## Visual characteristics
 |Family type: Any|
 |Serif style: Any|
 |Arm style: Any|
