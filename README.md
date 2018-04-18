@@ -12,6 +12,8 @@ Macintosh | Roman
 
 ## Font details
 
+| |
+| --- |
 |Created: 2001-04-14|
 |Revision: 1|
 |Glyph count: 286|
@@ -31,6 +33,8 @@ Macintosh | Roman
 
 ## Visual characteristics
 
+| |
+| --- |
 |Family type: Any|
 |Serif style: Any|
 |Arm style: Any|
